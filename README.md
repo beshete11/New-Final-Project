@@ -1,7 +1,7 @@
 # New-Final-Project
-Team name: The Trees
-</br>Blen Eshete (ble32@pitt.edu)
-</br>Sofiia Kuzmenko (sok151@pitt.edu)
+Team name: The Trees (Canvas group 18)
+</br>Blen Eshete (ble32@pitt.edu) - Trees
+</br>Sofiia Kuzmenko (sok151@pitt.edu) - Arrests, Firearm Seizures
 
 [Arrests:](https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f)
 Each data entry in this data set is an arrest made by the Pittsburgh Police. The data includes the neighnorhood of the arrest as a parameter.
